@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Fira+Sans&display=swap');
+
+body{
+    background-color: aqua;
+}
+
+.heading{
+    text-align: center;
+    color: blue;
+    font-family: 'Dancing Script', cursive;
+    font-size: 5rem;
+}
+
+.ingredients{
+    border: 1px solid black;
+    width: 50%;
+    margin: 0 auto;
+}
+
+.ingredients-table{
+    border: 1px solid black;
+    margin: 0 auto;
+    color: green;
+}
+
+.instructions {
+    border: 1 px solid black;
+    width: 50%;
+    margin: 0 auto;
+    color: gray;
+}
+
+.instructions ol{
+    border: 1px solid red;
+    margin: 0 auto;
+}
+
+.footer{
+    color: blueviolet;
+    font-family: 'Fira Sans', sans-serif;
+    font-size: 2rem;
+    text-align: center;
+}
